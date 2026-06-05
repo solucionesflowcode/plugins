@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1780689118832
   login: 1780688664228
 money: '0'
 last-account-name: maik
+logoutlocation:
+  world: 7b06e421-7c9d-4934-baad-155c531b7d05
+  world-name: world
+  x: -38.64643139554207
+  y: 69.0
+  z: 19.1507704666546
+  yaw: -92.54925537109375
+  pitch: 14.849897384643555
